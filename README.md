@@ -90,8 +90,6 @@ The project involved developing both backend and frontend components to create a
 - To test the APIs, use tools like Postman. The backend server should be running for the frontend to interact with the APIs.
 - Access the website through your browser once both servers are up.
 
-## Contributors
-- Adham Hisham and team members.
 
 ## License
 This project is licensed under the MIT License.
